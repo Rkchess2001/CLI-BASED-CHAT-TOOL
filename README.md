@@ -1,6 +1,6 @@
 # CLI-BASED-CHAT-TOOL
 
-Client-server-architecture
+Client-server-architecture | Python
 --------------------------
 Py charm cummunity based editor 
 
